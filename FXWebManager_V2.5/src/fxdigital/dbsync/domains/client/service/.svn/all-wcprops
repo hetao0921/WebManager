@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/2206/2P_V2.5/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/service
+END
+MsgClientService.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/PPServer/!svn/ver/2267/2P_V2.5/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/service/MsgClientService.java
+END
+IUnLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/service/IUnLock.java
+END
+AutoIncrementServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/PPServer/!svn/ver/2206/2P_V2.5/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/service/AutoIncrementServer.java
+END
+ViewLogs.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/PPServer/!svn/ver/2196/2P_V2.5/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/service/ViewLogs.java
+END
+LoadMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/service/LoadMessage.java
+END
+ResetVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/service/ResetVersion.java
+END
+AutoServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/PPServer/!svn/ver/2206/2P_V2.5/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/service/AutoServer.java
+END
+BackupServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/PPServer/!svn/ver/2229/2P_V2.5/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/service/BackupServer.java
+END
+UpMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/PPServer/!svn/ver/2267/2P_V2.5/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/service/UpMessage.java
+END

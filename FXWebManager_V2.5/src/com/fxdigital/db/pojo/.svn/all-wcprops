@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/pojo
+END
+CenterVerinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/pojo/CenterVerinfo.java
+END
+SoftPacketInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/pojo/SoftPacketInfo.java
+END
+SendVerCheckpojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/pojo/SendVerCheckpojo.java
+END
+UpLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/pojo/UpLink.java
+END
+UpRecordinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/pojo/UpRecordinfo.java
+END
+SendUpResultInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/pojo/SendUpResultInfo.java
+END
+DevInfoPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/pojo/DevInfoPojo.java
+END
+WsdlPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/pojo/WsdlPojo.java
+END
+MenuInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/pojo/MenuInfo.java
+END
+UserLogPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/pojo/UserLogPojo.java
+END

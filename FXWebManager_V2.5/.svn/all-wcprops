@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/PPServer/!svn/ver/2206/2P_V2.5/dbsync/FXWebManager
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/PPServer/!svn/ver/2193/2P_V2.5/dbsync/FXWebManager/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/.project
+END
+.myhibernatedata
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/.myhibernatedata
+END
+.mymetadata
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/.mymetadata
+END

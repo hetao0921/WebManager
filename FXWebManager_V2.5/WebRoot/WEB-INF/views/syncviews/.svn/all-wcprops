@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/PPServer/!svn/ver/2279/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews
+END
+systemset.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/2264/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/systemset.jsp
+END
+waitdownload.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/waitdownload.jsp
+END
+backupfail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/2250/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/backupfail.jsp
+END
+onloadfail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/onloadfail.jsp
+END
+downingstate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/downingstate.jsp
+END
+databackup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/databackup.jsp
+END
+datarest.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/2203/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/datarest.jsp
+END
+downrecord.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/2279/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/downrecord.jsp
+END
+waitupload.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/2250/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/waitupload.jsp
+END
+logrecord.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/2203/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/logrecord.jsp
+END
+waitedatabackup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/waitedatabackup.jsp
+END
+upload.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/2220/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/syncviews/upload.jsp
+END

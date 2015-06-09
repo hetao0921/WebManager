@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/PPServer/!svn/ver/2204/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao
+END
+SyncLogDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/2203/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/SyncLogDao.java
+END
+MqServerInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/2204/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/MqServerInfoDao.java
+END
+LocalRegisterCentersDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/LocalRegisterCentersDao.java
+END
+SupApplyDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/SupApplyDao.java
+END
+SyncUpnetworkinfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PPServer/!svn/ver/2015/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/SyncUpnetworkinfoDao.java
+END
+IncrementdataInfotabDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/PPServer/!svn/ver/1871/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/IncrementdataInfotabDao.java
+END
+CenterVerDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/CenterVerDao.java
+END
+CenterInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/CenterInfoDao.java
+END
+UserLogDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/UserLogDao.java
+END
+LogTypeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/LogTypeDao.java
+END
+AutoTimeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/AutoTimeDao.java
+END
+LocalCenterDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/2227/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/LocalCenterDao.java
+END
+SyncServersDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/SyncServersDao.java
+END
+DevInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/DevInfoDao.java
+END
+UserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/UserDao.java
+END
+DeviceModelDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/DeviceModelDao.java
+END
+BackupInfotabDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/2227/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/BackupInfotabDao.java
+END
+ApplyStatusDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/ApplyStatusDao.java
+END
+QueueUpLinkDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/QueueUpLinkDao.java
+END
+MenuInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/MenuInfoDao.java
+END
+SubApplyDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/SubApplyDao.java
+END
+WsdlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/db/dao/WsdlDao.java
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/PPServer/!svn/ver/2203/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/manager
+END
+RegisterCenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/manager/RegisterCenter.java
+END
+NewAddImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/manager/NewAddImpl.java
+END
+LocalCenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/manager/LocalCenter.java
+END
+SoftInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/manager/SoftInfoImpl.java
+END
+DevInfoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/manager/DevInfoManager.java
+END
+UserLogManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/manager/UserLogManager.java
+END
+SyncMq.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/manager/SyncMq.java
+END
+SupStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/manager/SupStatus.java
+END
+DbManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/2225/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/manager/DbManager.java
+END
+LoginManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/manager/LoginManager.java
+END
+SyncServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/manager/SyncServer.java
+END
+DeviceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/2203/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/manager/DeviceImpl.java
+END
+SubStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/manager/SubStatus.java
+END
+QueueImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/manager/QueueImpl.java
+END
+SyncLogManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/2203/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/manager/SyncLogManager.java
+END
+DeviceConfigImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/manager/DeviceConfigImpl.java
+END

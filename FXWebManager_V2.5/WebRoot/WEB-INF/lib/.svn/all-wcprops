@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/PPServer/!svn/ver/2275/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/commons-logging.jar
+END
+activemq-core-5.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/activemq-core-5.5.1.jar
+END
+jms.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/jms.jar
+END
+spring-core-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/spring-core-4.0.0.M3.jar
+END
+com.springsource.org.codehaus.jackson.mapper-1.4.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/PPServer/!svn/ver/1972/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/com.springsource.org.codehaus.jackson.mapper-1.4.2.jar
+END
+Proxy.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/Proxy.jar
+END
+activation-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/activation-1.1.jar
+END
+activemq-web-5.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/activemq-web-5.5.1.jar
+END
+activemq-camel-5.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/activemq-camel-5.5.1.jar
+END
+oscarHibernate4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/oscarHibernate4.jar
+END
+activemq-spring-5.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/activemq-spring-5.5.1.jar
+END
+c3p0-0.9.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/c3p0-0.9.1.2.jar
+END
+snmp4j-2.3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/snmp4j-2.3.1.jar
+END
+jackson-annotations-2.2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/2190/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/jackson-annotations-2.2.0.jar
+END
+activemq-jaas-5.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/activemq-jaas-5.5.1.jar
+END
+spring-orm-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/spring-orm-4.0.0.M3.jar
+END
+fastjson-1.1.33.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/fastjson-1.1.33.jar
+END
+commons-io-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/commons-io-2.4.jar
+END
+Runtime.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/Runtime.jar
+END
+spring-aop-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/spring-aop-4.0.0.M3.jar
+END
+spring-web-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/spring-web-4.0.0.M3.jar
+END
+spring-context-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/spring-context-4.0.0.M3.jar
+END
+Dm7JdbcDriver16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/Dm7JdbcDriver16.jar
+END
+jackson-mapper-lgpl-1.9.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PPServer/!svn/ver/2190/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/jackson-mapper-lgpl-1.9.13.jar
+END
+jackson-databind-2.2.0-rc1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PPServer/!svn/ver/2190/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/jackson-databind-2.2.0-rc1.jar
+END
+jackson-mapper-asl-1.9.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/2190/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar
+END
+spring-beans-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/spring-beans-4.0.0.M3.jar
+END
+spring-context-support-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/spring-context-support-4.0.0.M3.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/dom4j-1.6.1.jar
+END
+activemq-pool-5.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/activemq-pool-5.5.1.jar
+END
+DmDialect-for-hibernate4.0-jdk1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/DmDialect-for-hibernate4.0-jdk1.6.jar
+END
+jackson-core-asl-1.9.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/PPServer/!svn/ver/2190/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/jackson-core-asl-1.9.13.jar
+END
+activemq-console-5.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/activemq-console-5.5.1.jar
+END
+slf4j-api-1.7.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/slf4j-api-1.7.5.jar
+END
+oscarJDBC.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/oscarJDBC.jar
+END
+spring-expression-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/spring-expression-4.0.0.M3.jar
+END
+net.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/net.jar
+END
+activemq-protobuf-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/activemq-protobuf-1.1.jar
+END
+jackson-core-lgpl-1.9.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/PPServer/!svn/ver/2190/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/jackson-core-lgpl-1.9.13.jar
+END
+client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/client.jar
+END
+commons-fileupload-1.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/commons-fileupload-1.2.2.jar
+END
+jstl-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/jstl-impl.jar
+END
+com.springsource.org.codehaus.jackson-1.4.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/PPServer/!svn/ver/1972/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/com.springsource.org.codehaus.jackson-1.4.2.jar
+END
+spring-webmvc-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/spring-webmvc-4.0.0.M3.jar
+END
+spring-tx-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/spring-tx-4.0.0.M3.jar
+END
+jackson-core-2.2.0-rc1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/2190/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/jackson-core-2.2.0-rc1.jar
+END
+poi-3.10-FINAL-20140208.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/poi-3.10-FINAL-20140208.jar
+END
+mysql-connector-java-5.1.24-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.24-bin.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/log4j-1.2.15.jar
+END
+jaxen-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/jaxen-1.1.1.jar
+END
+corenet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/corenet.jar
+END
+jdom-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/jdom-1.0.jar
+END
+spring-jdbc-4.0.0.M3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/spring-jdbc-4.0.0.M3.jar
+END
+slf4j-log4j12-1.7.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/slf4j-log4j12-1.7.5.jar
+END
+fxutil.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/fxutil.jar
+END
+geronimo-j2ee-management_1.1_spec-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/lib/geronimo-j2ee-management_1.1_spec-1.0.1.jar
+END

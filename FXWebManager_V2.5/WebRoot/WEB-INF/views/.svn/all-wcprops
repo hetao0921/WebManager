@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/PPServer/!svn/ver/2279/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views
+END
+transProtocol.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/transProtocol.jsp
+END
+webservice.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/webservice.jsp
+END
+gapIp.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/gapIp.jsp
+END
+main.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/PPServer/!svn/ver/2203/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/main.jsp
+END
+reboot.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/reboot.jsp
+END
+linkIp.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/linkIp.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/error.jsp
+END
+userLog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/PPServer/!svn/ver/2273/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/userLog.jsp
+END
+softinfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/softinfo.jsp
+END
+groupConf.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/groupConf.jsp
+END
+serverLog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/PPServer/!svn/ver/2277/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/serverLog.jsp
+END
+license.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/license.jsp
+END
+deviceVisitModel.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/deviceVisitModel.jsp
+END
+showHikmatrix.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PPServer/!svn/ver/2183/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/showHikmatrix.jsp
+END
+wsdlInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/wsdlInfo.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/PPServer/!svn/ver/2203/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/login.jsp
+END
+netArgsSet.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PPServer/!svn/ver/2182/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/netArgsSet.jsp
+END

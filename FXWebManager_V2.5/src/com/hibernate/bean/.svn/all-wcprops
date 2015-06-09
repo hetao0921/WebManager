@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/PPServer/!svn/ver/1980/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean
+END
+DataNativeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/DataNativeSource.java
+END
+SyncLocalregistercenterinfos.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/SyncLocalregistercenterinfos.java
+END
+CenterMqserverinfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/CenterMqserverinfo.hbm.xml
+END
+NvmpUserlog.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/NvmpUserlog.java
+END
+SyncUpnetworkinfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/PPServer/!svn/ver/1965/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/SyncUpnetworkinfo.hbm.xml
+END
+NvmpLogtypetab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/NvmpLogtypetab.hbm.xml
+END
+WebGroupconf.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/WebGroupconf.java
+END
+SyncUpnetworkinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/1980/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/SyncUpnetworkinfo.java
+END
+SyncApplystatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/SyncApplystatus.java
+END
+MqLocalcenterinfotab.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/MqLocalcenterinfotab.java
+END
+SyncApplystatus.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/SyncApplystatus.hbm.xml
+END
+DataOperateRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/DataOperateRecord.java
+END
+WebMenutable.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/WebMenutable.java
+END
+BackupInfotab.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/2225/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/BackupInfotab.java
+END
+DataNativeSource.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/DataNativeSource.hbm.xml
+END
+SyncSubapply.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/SyncSubapply.hbm.xml
+END
+SyncServerinfosync.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/SyncServerinfosync.hbm.xml
+END
+NvmpUserinfotab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/NvmpUserinfotab.hbm.xml
+END
+MqQueueuplinktab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/MqQueueuplinktab.hbm.xml
+END
+CenterMqserverinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/CenterMqserverinfo.java
+END
+WebMenutable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/WebMenutable.hbm.xml
+END
+NetupUprecord.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/NetupUprecord.hbm.xml
+END
+SyncSupapply.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/SyncSupapply.java
+END
+SyncLocalregistercenterinfos.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/SyncLocalregistercenterinfos.hbm.xml
+END
+NvmpWsdls.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/NvmpWsdls.java
+END
+IncrementdataInfotab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PPServer/!svn/ver/1871/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/IncrementdataInfotab.hbm.xml
+END
+SyncServerinfosync.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/SyncServerinfosync.java
+END
+NvmpWsdls.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/NvmpWsdls.hbm.xml
+END
+NvmpUserlog.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/NvmpUserlog.hbm.xml
+END
+SyncDataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/SyncDataSet.java
+END
+NvmpWsdlinfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/NvmpWsdlinfo.hbm.xml
+END
+NvmpUserinfotab.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/NvmpUserinfotab.java
+END
+SyncSubapply.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/SyncSubapply.java
+END
+DataSelfSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/DataSelfSource.java
+END
+NvmpCenterinfotab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/NvmpCenterinfotab.hbm.xml
+END
+DataOperateRecord.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/DataOperateRecord.hbm.xml
+END
+DataNativerecordSource.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/DataNativerecordSource.hbm.xml
+END
+NvmpVideodevExtTab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/NvmpVideodevExtTab.hbm.xml
+END
+MqLocalcenterinfotab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/MqLocalcenterinfotab.hbm.xml
+END
+DataSelfSource.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/DataSelfSource.hbm.xml
+END
+NvmpCenterinfotab.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/NvmpCenterinfotab.java
+END
+WebGroupconf.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/WebGroupconf.hbm.xml
+END
+MqQueueuplinktab.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/MqQueueuplinktab.java
+END
+NetupCenterverinfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/NetupCenterverinfo.hbm.xml
+END
+DataNativerecordSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/DataNativerecordSource.java
+END
+IArrayPoJo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/IArrayPoJo.java
+END
+NvmpVideodevExtTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/NvmpVideodevExtTab.java
+END
+NvmpWsdlinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/NvmpWsdlinfo.java
+END
+SyncDataSet.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/SyncDataSet.hbm.xml
+END
+SyncSupapply.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/SyncSupapply.hbm.xml
+END
+BackupInfotab.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/PPServer/!svn/ver/2226/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/BackupInfotab.hbm.xml
+END
+DataOperate.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/DataOperate.hbm.xml
+END
+DataIncrementVersion.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/PPServer/!svn/ver/1914/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/DataIncrementVersion.hbm.xml
+END
+NvmpLogtypetab.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/NvmpLogtypetab.java
+END
+IncrementdataInfotab.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/PPServer/!svn/ver/1871/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/IncrementdataInfotab.java
+END
+DataIncrementVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/PPServer/!svn/ver/1915/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/DataIncrementVersion.java
+END
+NetupUprecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/NetupUprecord.java
+END
+DataOperate.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/DataOperate.java
+END
+NetupCenterverinfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/hibernate/bean/NetupCenterverinfo.java
+END

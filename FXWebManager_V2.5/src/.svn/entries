@@ -1,0 +1,49 @@
+8
+
+dir
+2206
+https://192.168.1.200/svn/PPServer/2P_V2.5/dbsync/FXWebManager/src
+https://192.168.1.200/svn/PPServer
+
+
+
+2015-03-04T02:30:10.864000Z
+2206
+hetao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9d2fa266-186a-dd41-ba73-a42d3f4de2d7
+
+META-INF
+dir
+
+com
+dir
+
+fxdigital
+dir
+
+hibernate.cfg.xml
+file
+2224
+
+
+
+2015-03-19T10:20:47.281000Z
+537088b1f653e206a8bdcbf5e9849048
+2015-03-19T10:27:35.7361000Z
+2224
+hetao
+

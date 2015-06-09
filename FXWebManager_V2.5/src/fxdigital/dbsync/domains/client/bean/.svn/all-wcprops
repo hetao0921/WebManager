@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/PPServer/!svn/ver/2020/2P_V2.5/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/bean
+END
+ResGpMemAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/PPServer/!svn/ver/1870/2P_V2.5/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/bean/ResGpMemAttribute.java
+END
+CenterRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/PPServer/!svn/ver/2020/2P_V2.5/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/bean/CenterRelation.java
+END
+Equality.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PPServer/!svn/ver/1870/2P_V2.5/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/bean/Equality.java
+END
+ResourceGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/PPServer/!svn/ver/1870/2P_V2.5/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/bean/ResourceGroup.java
+END
+CreateSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/PPServer/!svn/ver/1870/2P_V2.5/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/bean/CreateSql.java
+END
+ResourceGroupMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/PPServer/!svn/ver/1870/2P_V2.5/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/bean/ResourceGroupMember.java
+END
+RelatedCenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/PPServer/!svn/ver/2019/2P_V2.5/dbsync/FXWebManager/src/fxdigital/dbsync/domains/client/bean/RelatedCenter.java
+END

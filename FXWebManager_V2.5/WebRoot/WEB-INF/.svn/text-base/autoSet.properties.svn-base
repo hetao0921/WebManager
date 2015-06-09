@@ -1,0 +1,3 @@
+autodown.delay=1000
+autodown.inteval=300000
+autodown.devicetype=FXH3220;

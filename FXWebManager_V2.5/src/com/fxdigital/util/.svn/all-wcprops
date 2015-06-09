@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/util
+END
+SelectXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/util/SelectXml.java
+END
+InsertXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/util/InsertXml.java
+END
+Functions.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/util/Functions.java
+END
+RefreshXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/util/RefreshXml.java
+END
+LinuxCmmand.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/util/LinuxCmmand.java
+END
+ArgsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/util/ArgsUtil.java
+END
+LinuxCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/util/LinuxCmd.java
+END
+Common.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/util/Common.java
+END
+DelXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/util/DelXml.java
+END
+ConfigUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/util/ConfigUtil.java
+END
+ShowXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/PPServer/!svn/ver/1829/2P_V2.5/dbsync/FXWebManager/src/com/fxdigital/util/ShowXml.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/PPServer/!svn/ver/2252/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/upgradeviews
+END
+upseripset.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/PPServer/!svn/ver/2401/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/upgradeviews/upseripset.jsp
+END
+definedupserver.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/PPServer/!svn/ver/2178/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/upgradeviews/definedupserver.jsp
+END
+selectversion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/PPServer/!svn/ver/2179/2P_V2.5/dbsync/FXWebManager/WebRoot/WEB-INF/views/upgradeviews/selectversion.jsp
+END
